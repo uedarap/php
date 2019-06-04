@@ -4,4 +4,6 @@
 
     echo "Hello Rapha";
 
+    echo "mais um teste";
+
 ?>
